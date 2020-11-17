@@ -1,0 +1,29 @@
+
+*{text-align: center;}
+h2{
+
+	font-family: calibri(body);
+}
+
+
+p{
+	color:rgb(128,0,0);
+	background-color: lightgray;
+	color:black;
+	/*background-image: url("../image/logo2.png");*/
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover; */
+	border: 2px solid black;
+}
+
+h5{
+	color:gray;
+	text-shadow: 2px 2px red ;
+}	
+img{
+	border: 2px solid gray;
+}
+a{
+
+	text-decoration: none;
+}
